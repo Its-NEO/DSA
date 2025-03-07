@@ -1,4 +1,4 @@
-![[60be35c5db7adf4d16e3d7f3_ZzgJzSvjWHACMEuhCgWYcrFVYuYFP8YVnugTBs53Ax6_tXi4CqBRFsCiooJcfXLQ8NKsfZ1v4VyCgEH0LlKXEt81WzVSSINUCM4GK6MtAzY3pL71a9eSRTeBSCnutyLkrhrNETSJ-2.png]]
+![Heap Sort Image](../../../Images/heap-sort.png)
 
 # Intuition 
 
