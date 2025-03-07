@@ -1,4 +1,4 @@
-![[0*3GYw87Ix_9BOQXn6.png]]
+![Bubble Sort Image](../../../Images/bubble-sort.png)
 
 # Intuition
 
