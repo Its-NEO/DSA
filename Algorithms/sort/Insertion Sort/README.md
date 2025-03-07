@@ -1,4 +1,4 @@
-![[insertion-sort.png]]
+![Insertion Sort Image](../../../Images/insertion-sort.png)
 
 # Intuition
 
