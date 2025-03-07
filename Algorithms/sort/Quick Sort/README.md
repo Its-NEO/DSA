@@ -1,4 +1,4 @@
-![[1*bIJvejLlEshkf-ehYJJlWQ.png]]
+![Merge Sort Image](../../../Images/merge-sort.png)
 
 # Intuition
 
